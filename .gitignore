@@ -1,6 +1,9 @@
 # Prerequisites
 *.d
 
+# Issue statement
+*.pdf
+
 # Object files
 *.o
 *.ko
